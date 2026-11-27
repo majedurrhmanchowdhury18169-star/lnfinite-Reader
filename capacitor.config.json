@@ -1,0 +1,9 @@
+{
+  "appId": "com.infinitereader.app",
+  "appName": "Infinite Reader",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}

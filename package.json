@@ -1,0 +1,16 @@
+{
+  "name": "infinite-reader",
+  "version": "1.0.0",
+  "description": "Infinite Reader - Offline, Ad-Free PDF Reader, Scanner & Docutext Studio",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static www ready'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
